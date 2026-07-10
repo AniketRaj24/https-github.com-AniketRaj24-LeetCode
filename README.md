@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0274-h-index) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -90,9 +93,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
