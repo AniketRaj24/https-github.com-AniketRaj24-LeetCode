@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0189-rotate-array) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## String
 |  |
 | ------- |
