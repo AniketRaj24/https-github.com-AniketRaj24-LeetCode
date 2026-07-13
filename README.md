@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -107,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0274-h-index) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
