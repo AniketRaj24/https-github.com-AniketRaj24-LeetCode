@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0274-h-index) |
 | [0410-split-array-largest-sum](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0455-assign-cookies) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
