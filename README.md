@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
