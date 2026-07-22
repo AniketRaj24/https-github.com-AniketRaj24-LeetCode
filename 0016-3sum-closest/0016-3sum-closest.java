@@ -30,3 +30,30 @@ class Solution {
         return result;
     }
 }
+
+//Another Approach....
+ /* int currsum = 0;
+        Arrays.sort(nums);
+        int clossum = nums[0]+nums[1]+nums[2];
+
+        for(int i = 0; i< nums.length-2;i++){
+            int j = i+1;
+            int k = nums.length-1;
+
+            while(j<k){
+               int  currsum = nums[i]+nums[j]+nums[k];
+            //    clossum = currsum-target;
+                if(Math.abs(currsum - target)<Math.abs(clossum-target)){
+                    clossum = currsum;
+                } 
+
+                if(currsum>target){
+                    k--;
+                }else if(currsum<target){
+                    j++;
+                }else{
+                    return currsum;
+                }
+            }
+        }
+        return clossum; */
