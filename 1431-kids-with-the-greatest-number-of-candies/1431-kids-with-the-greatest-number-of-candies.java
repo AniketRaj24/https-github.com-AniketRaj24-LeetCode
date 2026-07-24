@@ -10,8 +10,7 @@ class Solution {
         for(int i = 0; i < candies.length; i++){
              int candy = candies[i];
              } */ 
-        for(int i = 0; i < candies.length; i++){
-            int candy = candies[i];
+        for(int candy : candies){
             if(candy + extraCandies >= maxCandies){
                 result.add(true);
             }else{
