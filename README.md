@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0904-fruit-into-baskets](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Math
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
