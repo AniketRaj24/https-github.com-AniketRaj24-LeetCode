@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0136-single-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
