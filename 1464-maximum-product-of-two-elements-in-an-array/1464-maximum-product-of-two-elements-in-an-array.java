@@ -9,8 +9,8 @@ class Solution {
                 max1 = num;
             }
             else if(num > max2){
-                 max2 = num;
-            }
+                max2 = num;
+            } 
         }
         return (max1 -1)*(max2 - 1);
     }
