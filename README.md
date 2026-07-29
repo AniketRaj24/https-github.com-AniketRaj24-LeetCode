@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0904-fruit-into-baskets) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0520-detect-capital) |
 | [1768-merge-strings-alternately](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1768-merge-strings-alternately) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0274-h-index) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -199,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
