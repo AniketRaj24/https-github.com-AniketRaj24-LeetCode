@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0283-move-zeroes) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
