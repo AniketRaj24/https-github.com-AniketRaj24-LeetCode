@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0520-detect-capital) |
 | [1768-merge-strings-alternately](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
