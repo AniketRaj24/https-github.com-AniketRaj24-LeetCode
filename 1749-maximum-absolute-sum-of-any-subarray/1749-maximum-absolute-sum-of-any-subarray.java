@@ -7,11 +7,14 @@ class Solution {
         int ans = Math.abs(nums[0]);
 
         for(int i = 1; i < nums.length; i++){
-            int v1 = maxending + nums[i];
-            int v2 = minending + nums[i];
+            // int v1 = maxending + nums[i];
+            // int v2 = minending + nums[i];
 
-            maxending = Math.max(v1, nums[i]);
-            minending = Math.min(v2, nums[i]);
+            // maxending = Math.max(v1, nums[i]);
+            // minending = Math.min(v2, nums[i]);
+
+            maxending = Math.max(maxending + nums[i], nums[i]);
+            minending = Math.min(minending + nums[i], nums[i]);
 
             maxsum = Math.max(maxsum, maxending);
             minsum = Math.min(minsum, minending);
