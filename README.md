@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -264,4 +267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0877-stone-game) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
