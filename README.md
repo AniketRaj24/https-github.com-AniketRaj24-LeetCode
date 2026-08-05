@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0877-stone-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
 |  |
 | ------- |
