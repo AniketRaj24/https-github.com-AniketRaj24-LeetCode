@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0202-happy-number) |
@@ -229,16 +230,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0143-reorder-list) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |
