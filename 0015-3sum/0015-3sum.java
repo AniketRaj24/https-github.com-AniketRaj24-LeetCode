@@ -9,22 +9,23 @@ class Solution {
             }
             int left = i + 1;
             int right = a.length - 1;
+            int sum = -1 * a[i];
 
             while(left < right){
-                int sum = a[i] + a[left] + a[right];
-                if(sum == 0){
+                int s = a[left] + a[right];
+                if(s == sum){
                     ans.add(Arrays.asList(a[i], a[left], a[right]));
                     left ++;
                     right --;
 
-                    while(left < right && a[left] == a[left - 1]){
+                    while(left < a.length && a[left] == a[left - 1]){
                         left ++;
                     }
-                    while(left < right && a[right] == a[right + 1]){
+                    while(right >= 0 && a[right] == a[right + 1]){
                         right --;
                     }
 
-                }else if(sum < 0){
+                }else if(s < sum){
                     left ++;
                 }else{
                     right --;
