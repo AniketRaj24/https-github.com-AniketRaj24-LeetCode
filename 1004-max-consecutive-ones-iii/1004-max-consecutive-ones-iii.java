@@ -8,7 +8,7 @@ class Solution {
             if(nums[high] == 0){
                 zeroCount++;
             }
-            while(zeroCount > k){
+            while(low <= high && zeroCount > k){
                 if(nums[low] == 0){
                     zeroCount--;
                 }
