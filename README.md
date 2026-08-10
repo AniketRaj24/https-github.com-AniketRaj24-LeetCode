@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0169-majority-element) |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
