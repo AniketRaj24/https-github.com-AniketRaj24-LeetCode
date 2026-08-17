@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0520-detect-capital) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1768-merge-strings-alternately](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
