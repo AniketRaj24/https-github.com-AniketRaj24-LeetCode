@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
