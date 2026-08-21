@@ -1,36 +1,43 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int [] ans = {-1, -1};
-        int start = search(nums, target, true);
-        int end = search(nums, target, false);
-        ans[0] = start;
-        ans[1] = end;
-        return ans;
-
+        return new int[]{ first(nums, target), last(nums, target)};
     }
-        static int search(int [] nums, int target, boolean findStartIndex){
-        int ans = -1; 
-        int start = 0;
-        int end = nums .length-1;
-
-        while(start <= end){
-            int mid = start + (end - start)/2;
-
-            if(target < nums[mid]){
-                end = mid -1 ;
-            }else if(target > nums[mid]){
-                start = mid + 1;
-            }else{
-                ans = mid;
-                 if(findStartIndex){
-                    end = mid - 1;
-                }else{
-                    start = mid + 1;
-                }
+    private int first(int[] nums, int target){
+        int low = 0;
+        int high = nums.length-1;
+        int res = -1;
+        while(low <= high){
+            int guess = (low + high)/2;
+            if(nums[guess] < target){
+                low = guess + 1;
             }
-        }  
-            return ans;
- }
-
-}    
-    
+            else if(nums[guess] > target){
+                high = guess - 1;
+            }
+            else{
+                res = guess;
+                high = guess - 1;
+            }
+        }
+        return res;
+    }
+    private int last(int[] nums, int target){
+        int low = 0;
+        int high = nums.length-1;
+        int res = -1;
+        while(low <= high){
+            int guess = (low + high)/2;
+            if(nums[guess] < target){
+                low = guess + 1;
+            }
+            else if(nums[guess] > target){
+                high = guess - 1;
+            }
+            else{
+                res = guess;
+                low = guess + 1;
+            }
+        }
+        return res;
+    }
+}
