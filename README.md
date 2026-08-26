@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0877-stone-game](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
