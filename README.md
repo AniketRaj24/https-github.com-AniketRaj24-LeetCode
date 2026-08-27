@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Binary Search
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
