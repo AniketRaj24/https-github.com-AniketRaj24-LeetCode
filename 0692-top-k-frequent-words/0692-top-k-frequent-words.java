@@ -2,7 +2,7 @@ class Solution {
     static class Pair{
         int first;
         String second;
-        Pair(String second, int first){
+        Pair(int first, String second){
         this.first = first;
         this.second = second;
         }
@@ -27,7 +27,7 @@ class Solution {
         for(Map.Entry<String, Integer> i : map.entrySet()){
             String element = i.getKey();
             int freq = i.getValue();
-            Pair curr = new Pair(element, freq);
+            Pair curr = new Pair(freq, element);
             if(pq.size() < k){
                 pq.add(curr);
                 continue;
