@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1025-divisor-game](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1025-divisor-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0877-stone-game](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1025-divisor-game) |
 ## Queue
 |  |
 | ------- |
@@ -379,4 +382,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
