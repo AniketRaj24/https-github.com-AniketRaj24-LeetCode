@@ -37,13 +37,14 @@ class Solution {
                 break;
             }
 
+            int row = node.row;
             int col = node.col;
 
             if(col == m - 1){
                 continue;
             }
 
-            pq.offer(new Node(matrix[node.row][col + 1], node.row, col + 1));
+            pq.offer(new Node(matrix[row][col + 1], row, col + 1));
         }
 
         return result;
