@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0767-reorganize-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -383,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0767-reorganize-string) |
