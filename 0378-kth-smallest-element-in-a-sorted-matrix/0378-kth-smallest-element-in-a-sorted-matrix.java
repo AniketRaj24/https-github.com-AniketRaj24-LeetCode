@@ -44,7 +44,7 @@ class Solution {
                 continue;
             }
 
-            pq.offer(new Node(matrix[row][col + 1], row, col + 1));
+            pq.add(new Node(matrix[row][col + 1], row, col + 1));
         }
 
         return result;
