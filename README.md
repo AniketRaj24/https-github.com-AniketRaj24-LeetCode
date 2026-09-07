@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -479,4 +481,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0046-permutations) |
+| [0131-palindrome-partitioning](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
