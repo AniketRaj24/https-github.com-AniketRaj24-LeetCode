@@ -9,7 +9,12 @@ class Solution {
         q.add(root);
         while (!q.isEmpty()) {
             int lvlSize = q.size();
-            List<Integer> tmp = new ArrayList<>(Collections.nCopies(lvlSize, 0));
+            //List<Integer> tmp = new ArrayList<>(Collections.nCopies(lvlSize, 0));
+            //alternate if you didn't want to use for loop in List<Integer> tmp;
+            List<Integer> tmp = new ArrayList<>();
+            for (int i = 0; i < lvlSize; i++) {
+                tmp.add(0);
+            }
             int first = 0;
             int last = lvlSize - 1;
             int count = lvlSize;
