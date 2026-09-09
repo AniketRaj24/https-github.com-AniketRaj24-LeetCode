@@ -20,16 +20,18 @@ class Solution {
         }
         return fun(root.left, root.right);
     }
-    public boolean fun(TreeNode left, TreeNode right){
-        if(left == null && right == null){
+    public boolean fun(TreeNode root1, TreeNode root2){
+        if(root1 == null && root2 == null){
             return true;
         }
-        if(left == null || right == null){
+         if(root1 == null || root2 == null){
             return false;
         }
-        if(left.val != right.val){
+        if(root1.val != root2.val){
             return false;
         }
-        return fun(left.left, right.right) && fun(left.right, right.left);
+        boolean r1 = fun(root1.left, root2.right);
+        boolean r2 = fun(root1.right, root2.left);
+        return r1 && r2;
     }
 }
