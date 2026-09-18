@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AniketRaj24/https-github.com-AniketRaj24-LeetCode/tree/master/0202-happy-number) |
